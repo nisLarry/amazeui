@@ -1,6 +1,20 @@
 # Amaze UI Change Log
 ---
 
+## Amaze UI 2.5.2 (2016.01.26)
+
+**JS:**
+
+- `Fixed` #825 Datepicker `trigger` 报错问题。
+
+## Amaze UI 2.5.1 (2016.01.19)
+
+**JS:**
+
+- `Fixed` #809 Popup header 未设置 `z-index` 引起的穿透问题；
+- `Fixed` #807 Tabs 切换时出现水平滚动条问题；
+- `Fixed` #799 uCheck 移动端 `this` 引用错误问题。
+
 ## Amaze UI 2.5.0 (2015.11.30)
 
 ### 2015.11 W5
